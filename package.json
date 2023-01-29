@@ -1,0 +1,25 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrahamSH-LLK/scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrahamSH-LLK/scraper/issues"
+  },
+  "homepage": "https://github.com/GrahamSH-LLK/scraper#readme",
+  "dependencies": {
+    "dom-parser": "^0.1.6",
+    "jsdom": "^21.1.0",
+    "node-fetch": "^3.3.0"
+  }
+}
